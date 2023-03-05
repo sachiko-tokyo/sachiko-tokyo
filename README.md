@@ -1,6 +1,6 @@
 <h2>Frontend Developer based in Tokyo!</h2>
 
-- [Portfolio]()
+- [Portfolio](https://sachiko-tokyo.github.io/portfolio_01/)
 - [Linkedin](https://www.linkedin.com/in/sachikoyokoyama/)
 
 **Skills**
