@@ -13,6 +13,6 @@
   <img src="https://icons-for-free.com/iconfiles/png/512/google+mail+icon-1320192249286867468.png" width="40" height="40" />
 </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/sachiko-tokyo">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachiko-tokyo&layout=compact" />
 </a>
