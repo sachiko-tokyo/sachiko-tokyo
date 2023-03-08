@@ -1,6 +1,6 @@
 <h2>Web Developer based in Tokyo!</h2>
 
-- [Portfolio](https://sachiko-tokyo.github.io/portfolio_01/)
+- [Portfolio]([https://sachiko-tokyo.github.io/portfolio_01/](https://sachiko-tokyo.github.io/portfolio/))
 - [Linkedin](https://www.linkedin.com/in/sachikoyokoyama/)
 
 **Skills**
