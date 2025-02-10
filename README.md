@@ -1,4 +1,4 @@
-<h2>Web Developer based in Tokyo!</h2>
+<h2>Web Developer based in Kamakura!</h2>
 
 - [Portfolio](https://sachiko-tokyo.github.io/portfolio/)
 - [Linkedin](https://www.linkedin.com/in/sachikoyokoyama/)
