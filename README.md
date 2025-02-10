@@ -12,7 +12,7 @@
 **Contact**
 
 <a href="mailto:sachiko.dev.0811@gmail.com">
-  <img src="https://icons-for-free.com/iconfiles/png/512/google+mail+icon-1320192249286867468.png" width="40" height="40" />
+  <img src="https://w7.pngwing.com/pngs/799/918/png-transparent-mail-google-gmail-google-s-logo-icon-thumbnail.png" width="40" height="40" />
 </a>
 
 <a href="https://github.com/sachiko-tokyo">
